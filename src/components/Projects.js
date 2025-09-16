@@ -1,10 +1,10 @@
 export default function Projects() {
   const projects = [
     {
-      title: 'Video-Guided Instruction Retrieval and Answering',
+      title: 'Guide AI',
       description: 'Efficient and high-quality RAG system that leverages pre-trained video-focused models',
       technologies: ["Hugging Face", "Transformers", "LangGraph", "LangChain", "Vector Database", "Django"],
-      link: '#'
+      link: 'https://github.com/sameepv21/guide-ai'
     },
     {
       title: 'TimeWarp',
