@@ -22,7 +22,7 @@ export default function About() {
                 <span className="font-medium">Email:</span> svani@asu.edu
               </p>
               <p className="text-sm text-gray-600 mb-2">
-                <span className="font-medium">Location:</span> San Francisco, California
+                <span className="font-medium">Location:</span> San Jose, California
               </p>
             </div>
 
@@ -61,13 +61,18 @@ export default function About() {
           <div className="prose max-w-none">
             <h3 className="text-xl font-semibold mb-4">About Me</h3>
             <p className="text-gray-700 mb-4">
-              I am a Master's student in Computer Science at Arizona State University with a strong focus on 
-              Artificial Intelligence and Machine Learning, particularly in computer vision, natural language 
-              processing, and video large language models. Alongside research, I have gained hands-on experience 
-              as a Founding AI Engineer at a YC-backed startup, where I built agentic systems, backend 
-              infrastructure, and end-to-end AI pipelines that delivered measurable business impact. My work 
-              blends deep learning research with robust software engineering designing scalable APIs, integrating 
-              production-ready pipelines, and fine-tuning models to solve complex, real-world problems.
+            I am a Senior Data Scientist on the AI Foundations team at Capital One, where I build evaluation 
+            frameworks for multi-turn, multi-agent AI systems, focusing on the reliability, performance, and 
+            scalability of agentic workflows. I recently completed my Master's degree in Computer Science at 
+            Arizona State University, with a strong focus on Artificial Intelligence and Machine Learning, 
+            particularly in computer vision, natural language processing, and video large language models.
+
+            Prior to Capital One, I worked as a Founding AI Engineer at Sphinx Labs, a YC-backed startup, where I developed 
+            agentic systems, backend infrastructure, and end-to-end AI pipelines that delivered measurable 
+            business impact. My experience spans both research and production environments, combining deep 
+            learning, large-scale model development, and software engineering to build practical AI solutions. 
+            I enjoy designing scalable systems, developing robust evaluation methodologies, integrating 
+            production-ready pipelines, and advancing state-of-the-art models to solve complex real-world problems.
             </p>
             <p className="text-gray-700 mb-4">
               Outside of work and research, I enjoy exploring new coffee spots, trying out unique ice cream flavors, 
