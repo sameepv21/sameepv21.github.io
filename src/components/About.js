@@ -66,7 +66,8 @@ export default function About() {
             scalability of agentic workflows. I recently completed my Master's degree in Computer Science at 
             Arizona State University, with a strong focus on Artificial Intelligence and Machine Learning, 
             particularly in computer vision, natural language processing, and video large language models.
-
+            </p>
+            <p className="text-gray-700 mb-4">
             Prior to Capital One, I worked as a Founding AI Engineer at Sphinx Labs, a YC-backed startup, where I developed 
             agentic systems, backend infrastructure, and end-to-end AI pipelines that delivered measurable 
             business impact. My experience spans both research and production environments, combining deep 
